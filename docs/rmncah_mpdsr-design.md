@@ -108,11 +108,11 @@ The **information collected** focuses on the presence, functionality, and coordi
 
 The program is **organized by element**, meaning that each component of the MPDSR system—such as a committee, team, or operational structure—is represented as a separate section. For each element, the user is first asked whether it exists or is functional. If the element is confirmed as present, additional fields appear to capture related information, such as the main person or position responsible, the frequency of meetings, or the availability of documentation like registers and minutes.
 
-!\[Data Entry organisation\](resources/images/MPDSR_SMT.png)
+![Data Entry organisation](resources/images/MPDSR_SMT.png)
 
 This **dynamic structure** is achieved through the use of **program rules**, which control the visibility of certain fields based on user responses. This ensures that only relevant questions are displayed, reducing data entry burden and improving accuracy. For example, if a facility reports that a maternal death review committee exists, the system automatically prompts for more detailed information about its activities.
 
-!\[Program rule to show/hide details\](resources/images/MPDSR_SMT_PR.png)
+![Program rule to show/hide details](resources/images/MPDSR_SMT_PR.gif)
 
 The resulting data provide a comprehensive overview of the operational status of MPDSR structures and processes across health facilities. When visualized in the dashboards, these data help managers identify areas where MPDSR is functional, where support is needed, and how readiness evolves over time. The program therefore serves as a practical tool for strengthening system accountability and guiding targeted quality improvement actions.
 
@@ -132,7 +132,7 @@ Referral details are also documented. The user indicates whether the woman was *
 
 The **Enrollment Section** therefore establishes the foundation for all subsequent documentation and analysis within the tracker. By capturing clear identification, facility context, and referral details at the start, it ensures that each maternal death is uniquely registered, correctly categorized, and traceable through the full review and follow-up process.
 
-!\[Enrollment(resources/images/MPDSR_PAC.png)
+![Enrollment](resources/images/MPDSR_PAC.png)
 
 ### Program stages
 
@@ -175,7 +175,7 @@ This stage is divided into several sections: **Obstetric history**, **Demographi
 
 The **Pregnancy and Antenatal Care** stage ensures that all relevant background information on maternal health and antenatal service use is captured in a structured way. It provides the basis for identifying risk factors, evaluating the quality and continuity of antenatal care, and understanding the preventive opportunities that may have been missed.
 
-!\[Pregnancy and Antenatal care program stage\](resources/images/MPDSR_PAC.png)
+![Pregnancy and Antenatal care program stage](resources/images/MPDSR_PAC.png)
 
 #### Pathway Before Admission
 
@@ -189,7 +189,7 @@ To better understand the sequence of events, users also enter the **date and tim
 
 By systematically documenting these data, the **Pathway Before Admission** stage supports identification of barriers and delays in accessing emergency obstetric care and provides a basis for improving referral coordination and emergency transport systems within the MPDSR process.
 
-!\[Pathways before admission program stage\](resources/images/MPDSR_PBA.png)
+![Pathways before admission program stage](resources/images/MPDSR_PBA.png)
 
 #### Admission
 
@@ -204,7 +204,7 @@ This stage is organized into four main sections: **Vital signs**, **Abdominal ex
 
 The **Admission** stage provides a comprehensive snapshot of the woman’s condition at the point of care, allowing reviewers to evaluate whether the presenting complications were recognized and managed appropriately. It supports analysis of the timeliness and accuracy of diagnosis, adequacy of triage, and readiness of the facility to provide emergency obstetric care.
 
-!\[Admission program stage\](resources/images/MPDSR_admission.png)
+![Admission program stage](resources/images/MPDSR_admission.png)
 
 #### Labour and Birth
 
@@ -218,7 +218,7 @@ This stage is organized into thematic sections that follow the sequence of child
 
 By consolidating these details, the **Labour and Birth** stage allows MPDSR reviewers to assess the quality and timeliness of intrapartum and postpartum care, identify complications, and evaluate whether standard obstetric practices were followed. The structured approach ensures comprehensive documentation of clinical management during one of the most critical phases of maternal care.
 
-!\[Labour and birth program stage\](resources/images/MPDSR_labour_birth.png)
+![Labour and birth program stage](resources/images/MPDSR_labour_birth.png)
 
 #### Neonate
 
@@ -232,7 +232,7 @@ This stage is divided into three sections: **Neonate**, **Resuscitation**, and *
 
 The **Neonate** stage ensures that information on the baby’s condition and basic characteristics is consistently captured alongside the maternal case. These data help MPDSR committees evaluate the quality of intrapartum and immediate newborn care, and they contribute to identifying patterns of maternal and perinatal outcomes within the review process.
 
-!\[Neonate program stage\](resources/images/MPDSR_Neonate.png)
+![Neonate program stage](resources/images/MPDSR_Neonate.png)
 
 #### Interventions
 
@@ -248,7 +248,7 @@ This stage is divided into five sections: **Early Pregnancy**, **Antepartum**, *
 
 By structuring the data by phase, the **Interventions** stage allows reviewers to assess when and how key treatments were delivered and whether critical procedures—such as surgery, transfusion, or emergency pharmacologic interventions—were available and applied according to clinical protocols This information helps identify gaps in emergency response capacity, adherence to clinical protocols, and overall quality of obstetric and critical care services.
 
-!\[Interventions program stage\](resources/images/MPDSR_interventions.png)
+![Interventions program stage](resources/images/MPDSR_interventions.png)
 
 #### Details of Death
 
@@ -262,7 +262,7 @@ Where relevant, additional information may be recorded on whether the death was 
 
 The **Details of Death** stage therefore completes the case documentation, consolidating the essential information required to understand the final outcome and ensuring that the case is accurately represented for analysis and discussion within the MPDSR process.
 
-!\[Details of death program stage\](resources/images/MPDSR_details_death.png)
+![Details of death program stage](resources/images/MPDSR_details_death.png)
 
 #### Critical Delays and Modifiable Factors
 
@@ -287,7 +287,7 @@ The **Modifiable Factors** section captures the role of preventable factors that
 
 By combining the analysis of delays and modifiable factors, this stage helps the MPDSR committee identify where preventable barriers occurred and develop focused recommendations for improving service delivery, referral systems, and community awareness.
 
-!\[Critical Delays and Modifiable Factors program stage\](resources/images/MPDSR_CDMF.png)
+![Critical Delays and Modifiable Factors program stage](resources/images/MPDSR_CDMF.png)
 
 ## Stillbirth and Neonatal Death Case Review Tracker Program
 
@@ -305,7 +305,7 @@ Referral details are also captured to trace the woman’s and baby’s care path
 
 By capturing both identification and referral data at enrollment, this section ensures that each stillbirth or neonatal death case is uniquely recorded, correctly linked to the facility where it occurred, and associated with the appropriate level of care and referral pathway. Data on referral patterns are useful for all subsequent review and analysis stages within the MPDSR process.
 
-!\[Enrollment\](resources/images/MPDSR_newborn_enrollment.png)
+![Enrollment](resources/images/MPDSR_newborn_enrollment.png)
 
 ### Program Stages
 
@@ -338,7 +338,7 @@ This stage is divided into several sections: **Obstetric history**, **Demographi
 
 By consolidating these data, the **Pregnancy Progress and Care** stage allows MPDSR committees to review the maternal background and antenatal care pathway leading up to the stillbirth or neonatal death. It supports the identification of risk factors, service delivery gaps, and missed opportunities for early intervention or prevention.
 
-!\[Pregnancy Progress and Care program stage\](resources/images/MPDSR_newborn_PPC.png)
+![Pregnancy Progress and Care program stage](resources/images/MPDSR_newborn_PPC.png)
 
 #### Labour and birth
 
@@ -353,7 +353,7 @@ This stage is structured into four sections: **Labour assessment**, **Delivery p
 
 The **Labour and Birth** stage provides a complete picture of intrapartum events and immediate neonatal status. This information enables MPDSR committees to assess the quality and timeliness of care during labour and delivery, identify potential causes of stillbirth or neonatal death, and determine whether appropriate interventions were undertaken.
 
-!\[Labour and birth program stage\](resources/images/MPDSR_newborn_LB.png)
+![Labour and birth program stage](resources/images/MPDSR_newborn_LB.png)
 
 #### Details of death
 
@@ -367,7 +367,7 @@ The **cause of death** field captures the immediate or most likely cause leading
 
 The **Details of Death** stage therefore consolidates critical outcome information, enabling systematic analysis of perinatal deaths and their association with maternal health status and intrapartum care. It forms a key component of the overall review and contributes to accurate mortality classification and trend monitoring within the MPDSR framework.
 
-!\[Details of death program stage\](resources/images/MPDSR_newborn_DD.png)
+![Details of death program stage](resources/images/MPDSR_newborn_DD.png)
 
 #### Critical delays and modifiable factors
 
@@ -388,7 +388,7 @@ This stage is divided into two main sections: **Critical Delays** and **Modifiab
 
 By systematically documenting both delays and modifiable factors, this stage enables review committees to identify actionable insights and propose specific interventions to strengthen service delivery, referral mechanisms, and community awareness. The structured analysis ensures that each reviewed case contributes to continuous learning and improvement within the MPDSR process.
 
-!\[Critical delays and modifiable factors program stage\](resources/images/MPDSR_newborn_CDMF.png)
+![Critical delays and modifiable factors program stage](resources/images/MPDSR_newborn_CDMF.png)
 
 ## MPDSR dashboards
 
