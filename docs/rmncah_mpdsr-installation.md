@@ -144,7 +144,7 @@ By default, the following is assigned to these user groups
 
 | Object              | User Groups                             |                                                  |                                                     |
 |---------------------|-----------------------------------------|--------------------------------------------------|-----------------------------------------------------|
-|                     | MPDSR CS - Access                         | MPDSR CS - Admin                                   | MPDSR CS - Data capture                               |
+|                     | MPDSR - Access                         | MPDSR - Admin                                   | MPDSR - Data capture                               |
 | Tracked entity type | Metadata : can view <br> Data: can view | Metadata : can edit and view <br> Data: can view | Metadata : can view <br> Data: can capture and view |
 | Program             | Metadata : can view <br> Data: can view | Metadata : can edit and view <br> Data: can view | Metadata : can view <br> Data: can capture and view |
 | Program Stages      | Metadata : can view <br> Data: can view | Metadata : can edit and view <br> Data: can view | Metadata : can view <br> Data: can capture and view |
